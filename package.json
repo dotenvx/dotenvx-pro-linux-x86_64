@@ -1,10 +1,10 @@
 {
-  "name": "@dotenvx/dotenvx-pro-linux-aarch64",
+  "name": "@dotenvx/dotenvx-pro-linux-x86_64",
   "version": "0.1.0",
-  "description": "dotenvx-pro-linux-aarch64 binary",
+  "description": "dotenvx-pro-linux-x86_64 binary",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotenvx/dotenvx-pro-linux-aarch64.git"
+    "url": "git+https://github.com/dotenvx/dotenvx-pro-linux-x86_64.git"
   },
   "files": [
     "dotenvx-pro",
